@@ -15,15 +15,7 @@
 ---
 
 <div align="center">
-  <h1></p>
-    <p>UNIVERSIDAD DE COSTA RICA</p>
-    <p>FACULTAD DE INGENIERIA</p>
-    <p>ESCUELA DE CIENCIAS DE LA COMPUTACION E INFORMATICA</p>
+  <h1>
     <p>CODIGO EN PROCESO</p>
   </h1>
 </div>
-
-==============================================================================
-Proximamente, Nueva Version Mejorada
-Jueves 28 Marzo, 2024
-==============================================================================
